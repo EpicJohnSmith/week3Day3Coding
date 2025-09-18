@@ -2,7 +2,7 @@ package inital;
 
 public class Matrix 
 {
-
+  System.out.println(Arrays.toString(MatrixSearch(arr,5)));
 }
 
 int MatrixSearch(int[][] arr, int key)
